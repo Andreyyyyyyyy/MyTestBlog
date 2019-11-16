@@ -1,0 +1,82 @@
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+    }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+    }
+}
+
+.blog-header {
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+
+.blog-post-title {
+    margin-bottom: .25rem;
+    margin-top: 10px;
+    font-size: 2.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.blog-pagination {
+    margin-bottom: 4rem;
+}
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}    
+
+.blog-post {
+    margin-top: 15px;
+    padding: 8px;
+}
+
+.blog-pagination {
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+.img-fluid {
+     width: 100%;
+}
+
+.p-2 {
+    font-size: 20px;
+}
+
